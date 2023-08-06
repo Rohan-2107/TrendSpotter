@@ -18,7 +18,9 @@ The Trend Spotter Flutter application comes with the following features:
 
 ## Screenshots
 
-*[Insert screenshots of the application here]*
+![ezgif com-video-to-gif](https://github.com/Rohan-2107/TrendSpotter/assets/77926133/fe5be0eb-cb1b-40c4-9192-84b0b5cc3832)![WhatsApp Image 2023-08-06 at 11 14 27 PM](https://github.com/Rohan-2107/TrendSpotter/assets/77926133/ed018d05-76f0-40a9-a576-488a4b59a55f)
+
+
 
 
 ## Dependencies
