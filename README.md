@@ -42,6 +42,6 @@ The Trend Spotter Flutter application is open-source and licensed under the [MIT
 
 ## Contact
 
-For any queries or support, feel free to contact us at [contact@trendspotterapp.com](mailto:rohanrkc289@gmail.com).
+For any queries or support, feel free to contact us at [contact@rohanrkc289@gmail.com](mailto:rohanrkc289@gmail.com).
 
 Happy Trend Spotting!
